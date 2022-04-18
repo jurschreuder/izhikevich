@@ -37,26 +37,20 @@ Output image will be in `output/out.jpg`
 Regular spiking:
 ./izhikevich 0.02 0.2 -65 8
 
-
 Intrinsically bursting:
 ./izhikevich 0.02 0.2 -55 4
-
 
 Chattering:
 ./izhikevich 0.02 0.2 -50 2
 
-
 Fast spiking:
 ./izhikevich 0.1 0.2 -65 2
-
 
 Thalamo-cortical:
 ./izhikevich 0.02 0.25 -65 0.05
 
-
 Resonator:
 ./izhikevich 0.1 0.26 -65 2
-
 
 Low-threshold spiking:
 ./izhikevich 0.02 0.25 -65 2 
