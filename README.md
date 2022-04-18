@@ -56,3 +56,7 @@ Resonator:
 
 Low-threshold spiking:
 ./izhikevich 0.02 0.25 -65 2 
+
+## TODO
+
+The fixed DC input drive does not have the correct value for all neuron simulations, for now the easiest way is to change it manually in the "step" loop in the code.
