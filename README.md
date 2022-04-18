@@ -56,6 +56,8 @@ Resonator:
 
 Low-threshold spiking:
 ./izhikevich 0.02 0.25 -65 2 
+```
+
 
 ## TODO
 
