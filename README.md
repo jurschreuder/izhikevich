@@ -2,7 +2,7 @@
 
 This is some c++ code to simulate Izhikevich spiking neurons, from the paper:
 
-[https://www.izhikevich.org/publications/spikes.htm](paper)
+[paper](https://www.izhikevich.org/publications/spikes.htm)
 
 ![Izhikevich neuron](output/out.jpg?raw=true "Izhikevich Neuron")
 
